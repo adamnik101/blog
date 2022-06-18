@@ -1,0 +1,31 @@
+#infoAcc{
+  h2{
+    font-weight: bold;
+  }
+  span{
+    color: #1d2124;
+    font-weight: bold;
+  }
+}
+.dgm{
+  padding: 5px 20px;
+  border: none;
+  background: $heading-color;
+  color: #fff;
+  border-radius: 5px;
+}
+.btnPag{
+  border: none;
+  background: #1d2124;
+  color: #FFFFFF;
+  transition: 0.5s;
+  padding: 10px 15px;
+  &:hover{
+    background: #5a6268;
+  }
+}
+table{
+.naslov{
+  color: #1d2124!important;
+}
+}

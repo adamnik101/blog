@@ -1,0 +1,68 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+    <loc>https://hvac-blog.000webhostapp.com/index.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+</url>
+<url>
+    <loc>https://hvac-blog.000webhostapp.com/blog.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.97</priority>
+</url>
+<url>
+    <loc>https://hvac-blog.000webhostapp.com/blog-details.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+</url>
+<url>
+    <loc> https://hvac-blog.000webhostapp.com/profile.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
+</url>
+<url>
+    <loc> https://hvac-blog.000webhostapp.com/createPost.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+</url>
+<url>
+    <loc> https://hvac-blog.000webhostapp.com/contact.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+</url>
+<url>
+    <loc> https://hvac-blog.000webhostapp.com/register.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc> http://pz-blog.epizy.com/createPost.php </loc>
+    <lastmod>2019-3-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>https://hvac-blog.000webhostapp.com/adminPanel.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+</url>
+<url>
+    <loc> https://hvac-blog.000webhostapp.com/author.php </loc>
+    <lastmod>2021-3-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.81</priority>
+</url>
+<url>
+    <loc> https://hvac-blog.000webhostapp.com/error404.php</loc>
+    <lastmod>2021-3-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.70</priority>
+</url>
+</urlset>

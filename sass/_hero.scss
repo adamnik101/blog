@@ -1,0 +1,41 @@
+/*---------------------
+  Hero
+-----------------------*/
+.hero {
+    padding: 140px 0;
+}
+
+.hero__text {
+
+    .primary-btn {
+        margin-right: 16px;
+
+        img {
+            position: relative;
+            top: -2px;
+        }
+
+        &.more-btn {
+            background: transparent;
+            border: 1px solid $white-color;
+        }
+    }
+}
+
+.hero__text__title {
+    margin-bottom: 28px;
+
+    span {
+        font-size: 17px;
+        color: $white-color;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    h2 {
+        font-size: 60px;
+        color: $white-color;
+        font-weight: 700;
+        margin-top: 10px;
+    }
+}
